@@ -1,16 +1,27 @@
-## Hi there 👋
+<h2>Bem vindo</h2>
 
-<!--
-**ThiagoOliveiraJ/ThiagoOliveiraJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>👋Olá, me chamo Thiago Oliveira, tenho 19 anos e sou apaixonado por tecnologia</h3>
 
-Here are some ideas to get you started:
+- 🎓 Formação em **Fullstack** pela <a href="https://www.linkedin.com/school/programadoresdoamanha/posts/?feedView=all">Programadores do Amanhã</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🚀Principais Skills</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<h3>🛠 Skills</h3>
+  <p>
+      <img alt="Css" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" />
+      <img alt="Css" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img alt="Css" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  </p>
+  
+<h3>✉ Contato</h3>
+
+<p><a href="https://www.linkedin.com/in/thiagooliveiradev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+</table>
