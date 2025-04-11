@@ -2,7 +2,7 @@
 
 <h3>👋Olá, me chamo Thiago Oliveira, tenho 19 anos e sou apaixonado por tecnologia</h3>
 
-- 🎓 Formação em **Análise e desenvolvimento de sistemas** pela instituição Pontifícia Universidade Católica de Minas Gerais.
+- 🎓 Formação em **Análise e Desenvolvimento de Sistemas** pela instituição Pontifícia Universidade Católica de Minas Gerais.
 - 🎓 Formado em **Fullstack** pela <a href="https://www.linkedin.com/school/programadoresdoamanha/posts/?feedView=all">Programadores do Amanhã</a>.
 
 
