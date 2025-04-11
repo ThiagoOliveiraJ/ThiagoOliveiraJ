@@ -2,7 +2,8 @@
 
 <h3>👋Olá, me chamo Thiago Oliveira, tenho 19 anos e sou apaixonado por tecnologia</h3>
 
-- 🎓 Formação em **Fullstack** pela <a href="https://www.linkedin.com/school/programadoresdoamanha/posts/?feedView=all">Programadores do Amanhã</a>.
+- 🎓 Formação em **Análise e desenvolvimento de sistemas** pela instituição Pontifícia Universidade Católica de Minas Gerais.
+- 🎓 Formado em **Fullstack** pela <a href="https://www.linkedin.com/school/programadoresdoamanha/posts/?feedView=all">Programadores do Amanhã</a>.
 
 
 <h3>🚀Principais Skills</h3>
@@ -11,7 +12,9 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 </p>
 
 <h3>🛠 Skills</h3>
